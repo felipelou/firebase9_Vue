@@ -1,19 +1,4 @@
 # firebase9
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+App with vue,js bootsrap and database in firestore. 
+Here you can use the app: https://app.netlify.com/sites/gilded-croquembouche-fbd855/overview
