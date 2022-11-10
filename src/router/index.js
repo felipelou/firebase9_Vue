@@ -2,6 +2,8 @@ import { createRouter, createWebHashHistory } from 'vue-router'
 import Home from '../views/Home.vue'
 import { getAuth } from "firebase/auth";
 
+var PORT = process.env.PORT || 5000;
+
 const routes = [
   {
     path: '/',
